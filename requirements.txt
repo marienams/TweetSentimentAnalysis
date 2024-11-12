@@ -1,0 +1,4 @@
+1. imported kaggle
+2. added the .json access token file to /user/.kaggle/kaggle.json
+3. FetchData.py to fetch data from kaggle api
+4. data pre-processing: handling the stopwords 
